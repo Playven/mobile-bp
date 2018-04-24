@@ -7,7 +7,7 @@ Read more here: https://medium.com/dailyjs/the-1-2-3s-of-react-native-templates-
 # Run
 
 ```
-react-native init <AppName> --template https://github.com/Playven/mobile-bp
+react-native init <AppName> --template playvenbp
 ```
 
 # IMPORTANT:
