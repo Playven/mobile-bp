@@ -4,6 +4,12 @@ A little known feature of the `react-native init` CLI is the ability to pass a `
 
 Read more here: https://medium.com/dailyjs/the-1-2-3s-of-react-native-templates-1f5dda037e11
 
+# Run
+
+```
+react-native init <AppName> --template https://github.com/Playven/mobile-bp
+```
+
 # IMPORTANT:
 
 The cli script is pretty alpha, so there are few post install commands we need to run:
