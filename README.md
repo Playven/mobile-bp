@@ -10,6 +10,8 @@ Read more here: https://medium.com/dailyjs/the-1-2-3s-of-react-native-templates-
 react-native init <AppName> --template playvenbp
 ```
 
+This grabs the template from npm, which I've published here: https://www.npmjs.com/package/react-native-template-playvenbp (let's transfer this over to the playven owner at some point)
+
 # IMPORTANT:
 
 The cli script is pretty alpha, so there are few post install commands we need to run:
