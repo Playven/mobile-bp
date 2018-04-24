@@ -43,3 +43,7 @@ yarn add prettier lint-staged husky eslint eslint-config-prettier eslint-config-
     ]
   }
 ```
+
+# Finish
+
+You should be all good to go. Everything should be linked and installed, and you can run the project on either platform.
